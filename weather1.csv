@@ -1,0 +1,6 @@
+date,temp,windspeed,season
+01-01-2019,NaN,45,sunny
+01-02-2019,12,NaN,monsoon
+01-03-2019,34,67,sunny
+01-04-2019,NaN,45,NaN
+01-05-2019,NaN,23,NaN
